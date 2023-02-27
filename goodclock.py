@@ -14,4 +14,3 @@ else:
 hour=str(hour)
 minute=str(minute)
 clock=hour+":"+minute+" "+mn
-print(minute)
